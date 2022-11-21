@@ -1,0 +1,7 @@
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'yahoo.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)
+INFO:root:CompletedProcess(args=['ping', '-n', '4', 'google.com'], returncode=0)

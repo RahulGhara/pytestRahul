@@ -1,0 +1,7 @@
+INFO:root:inputs are 5 and 6..
+INFO:root:inputs are 5 and 6..
+ERROR:root:oops..
+DEBUG:root:code is running
+INFO:root:inputs are 5 and 6.......
+ERROR:root:oops..
+DEBUG:root:code is running
