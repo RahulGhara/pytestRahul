@@ -1,7 +1,6 @@
 import pytest
 from pytestRahul import conftest
 
-
 # import sys
 # sys.path.insert(0, 'C:\Users\cbnits\PycharmProjects\pythonProjectRahul\pytestRahul1')
 
@@ -15,7 +14,7 @@ from pytestRahul import conftest
 #     print("Browse product")
 #     y = "Ready to check out"
 #     yield x, y, total
-#     print("Log off")
+#   print("Log off")
 
 
 # class cal:
