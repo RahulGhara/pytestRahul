@@ -5,7 +5,7 @@ from pytestRahul import conftest
 # sys.path.insert(0, 'C:\Users\cbnits\PycharmProjects\pythonProjectRahul\pytestRahul1')
 
 
-# @pytest.fixture(scope="session")
+#   @pytest.fixture(scope="session")
 # def b_setup():
 #     total = 100
 #     print("Launch browser")
